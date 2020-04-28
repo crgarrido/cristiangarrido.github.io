@@ -2,3 +2,5 @@ LISTADO DE CLIENTES
 ----------------------
 1.- CLAUDIO
 2.- LORENZO
+4.- Pamela
+5.- Gabriel
